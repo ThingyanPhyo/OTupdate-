@@ -1,7 +1,12 @@
 {
   "holidays": [
-    { "date": "2026-08-22", "name": "Saturday" },
-    { "date": " ", "name": "အလုပ်ပိတ်တော့မယ်အားတင်းထား 🙇" },
-    { "date": " ", "name": "Notice By Thingyan" }
+    {
+      "date": "2026-08-22",
+      "name": [
+        "• Saturday",
+        "• အလုပ်ပိတ်တော့မယ်အားတင်းထား 🎉",
+        "• Notice By Thingyan"
+      ]
+    }
   ]
 }
